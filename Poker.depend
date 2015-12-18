@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1361911253 source:c:\users\vitor\desktop\123\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1361911253 c:\users\vitor\desktop\123\resource.h
+
+1361910783 source:c:\users\vitor\desktop\123\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1363028215 source:c:\users\vitor\desktop\projeto poker\poker projeto 4\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1363028297 c:\users\vitor\desktop\projeto poker\poker projeto 4\resource.h
+
+1363114939 source:c:\users\vitor\desktop\projeto poker\poker projeto 4\main.cpp
+	<time.h>
+	<stdio.h>
+	<sstream>
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	"resource.h"
+	"utility.h"
+	"pack.h"
+	"player.h"
+	"game.h"
+	"engine.h"
+
+1363387033 c:\users\vitor\desktop\projeto poker\poker projeto 4\utility.h
+
+1362074133 c:\users\vitor\desktop\projeto poker\poker projeto 4\pack.h
+	"pack.cpp"
+
+1362158779 c:\users\vitor\desktop\projeto poker\poker projeto 4\pack.cpp
+
+1362924016 c:\users\vitor\desktop\projeto poker\poker projeto 4\player.h
+	"player.cpp"
+
+1362915693 c:\users\vitor\desktop\projeto poker\poker projeto 4\player.cpp
+
+1363387460 c:\users\vitor\desktop\projeto poker\poker projeto 4\game.h
+	"game.cpp"
+
+1363464623 c:\users\vitor\desktop\projeto poker\poker projeto 4\game.cpp
+
+1363114939 c:\users\vitor\desktop\projeto poker\poker projeto 4\engine.h
+	"engine.cpp"
+
+1363464602 c:\users\vitor\desktop\projeto poker\poker projeto 4\engine.cpp
+
+1362920095 c:\users\vitor\desktop\projeto poker\poker projeto 4\wscrollbar.h
+	"WScrollBar.cpp"
+
+1362922195 c:\users\vitor\desktop\projeto poker\poker projeto 4\wscrollbar.cpp
+
+1363114939 source:c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\main.cpp
+	<time.h>
+	<stdio.h>
+	<sstream>
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	"resource.h"
+	"utility.h"
+	"pack.h"
+	"player.h"
+	"game.h"
+	"engine.h"
+
+1363028297 c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\resource.h
+
+1363387033 c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\utility.h
+
+1362074133 c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\pack.h
+	"pack.cpp"
+
+1362158779 c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\pack.cpp
+
+1362924016 c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\player.h
+	"player.cpp"
+
+1362915693 c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\player.cpp
+
+1363387460 c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\game.h
+	"game.cpp"
+
+1363464623 c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\game.cpp
+
+1363114939 c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\engine.h
+	"engine.cpp"
+
+1365549967 c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\engine.cpp
+
+1363028215 source:c:\users\vitor\desktop\c++\projeto poker\poker projeto 4\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
